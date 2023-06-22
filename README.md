@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 -->
 
 
-  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-007396.svg?&style=flat&logo=openjdk&logoColor=white)
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
