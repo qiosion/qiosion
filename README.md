@@ -1,7 +1,4 @@
 # SUN the bolt :zap:
-###  연락처
-@ [gmail](qiosion@gmail.com)<br>
-@ [naver](kes3226@naver.com)
 
 ###  프로젝트
 - [CBOX](https://github.com/hwajin3114/movie) : 소규모 극장을 위한 영화 예매 사이트
