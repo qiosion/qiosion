@@ -1,9 +1,10 @@
 # SUN the bolt :zap:
 
 ###  프로젝트
-- [CBOX](https://github.com/hwajin3114/movie) : 소규모 극장을 위한 영화 예매 사이트
-- [Papang](https://github.com/yhoo0094/papang) : 육아 상품 및 베이비 시터 고용 사이트
+- [CBOX](https://github.com/qiosion/movie) : 소규모 극장을 위한 영화 예매 사이트
+- [Papang](https://github.com/qiosion/papang) : 육아 상품 및 베이비 시터 고용 사이트
 - [Team Mosaic](https://github.com/qiosion/Mosaic) : Dlib를 이용한 모자이크 이미지 생성 사이트
+- [주차관리시스템](https://github.com/qiosion/ParkingManagementSystem) : 간단한 주차관리 시스템
 
 
 <!--
