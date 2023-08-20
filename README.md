@@ -1,4 +1,10 @@
 # SUN the bolt :zap:
+- 신입 백엔드 개발자 <br>
+  ![Java](https://img.shields.io/badge/java-007396.svg?&style=flat&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
+
 
 ###  프로젝트
 - [CBOX](https://github.com/qiosion/movie) : 소규모 극장을 위한 영화 예매 사이트
@@ -90,10 +96,7 @@ Here are some ideas to get you started:
 -->
 
 
-  ![Java](https://img.shields.io/badge/java-007396.svg?&style=flat&logo=openjdk&logoColor=white)
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
+
   
 
 
