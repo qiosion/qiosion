@@ -1,16 +1,16 @@
-# SUN the bolt :zap:
-- 신입 백엔드 개발자 <br>
-  ![Java](https://img.shields.io/badge/java-007396.svg?&style=flat&logo=openjdk&logoColor=white)
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
+<div align='center'>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SUN%20the%20bolt&fontSize=60&animation=fadeIn)
 
 
-###  프로젝트
-- [CBOX](https://github.com/qiosion/movie) : 소규모 극장을 위한 영화 예매 사이트
-- [Papang](https://github.com/qiosion/papang) : 육아 상품 및 베이비 시터 고용 사이트
-- [Team Mosaic](https://github.com/qiosion/Mosaic) : Dlib를 이용한 모자이크 이미지 생성 사이트
-- [주차관리시스템](https://github.com/qiosion/ParkingManagementSystem) : 간단한 주차관리 시스템
+  <img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+</div>
 
 
 <!--
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/아이콘내용(원하는대로)-아이콘바탕색(샵없이)?style=스타일&logo=로고이름&logoColor=white"/>
   - style 은 plastic / flat / flat-square / for-the-badge / social 5가지종류가 있음
+
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+
+  
 
 - 많이 사용하는 언어 https://github.com/anuraghazra/github-readme-stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
@@ -59,6 +63,7 @@ Here are some ideas to get you started:
   - text : 내용, 띄어쓰기를 하고 싶으면 %20를 사용해야한다. 예를 들어 "깃 허브"를 쓰려면 "깃%20허브"가 되어야한다.
   - fontSize : 글씨 크기
   - 그외에도 Desc, 텍스트 위치, desx위치 등 다양한 것들이 있다.
+
 
 - 링크
   <a href="url" > 텍스트나 뱃지 </a>
@@ -93,11 +98,14 @@ Here are some ideas to get you started:
 - 이미지 ![텍스트](이미지주소링크)
 
 
+###  프로젝트
+- [CBOX](https://github.com/qiosion/movie) : 소규모 극장을 위한 영화 예매 사이트
+- [Papang](https://github.com/qiosion/papang) : 육아 상품 및 베이비 시터 고용 사이트
+- [Team Mosaic](https://github.com/qiosion/Mosaic) : Dlib를 이용한 모자이크 이미지 생성 사이트
+- [주차관리시스템](https://github.com/qiosion/ParkingManagementSystem) : 간단한 주차관리 시스템
+
+
 -->
-
-
-
-  
 
 
 
